@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="body_text_color">#BFFFFFFF</color>
+    <color name="word_text_color">@color/white</color>
+    <color name="phonetic_text_color">#BFFFFFFF</color>
+</resources>

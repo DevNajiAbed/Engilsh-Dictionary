@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="body_text_color">@color/black</color>
+    <color name="word_text_color">@color/black</color>
+    <color name="phonetic_text_color">#BF000000</color>
+</resources>
